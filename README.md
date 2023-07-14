@@ -1,16 +1,8 @@
 # two_dice
 
-A new Flutter project.
+Игра Two Dice с использованием Maps.
 
-## Getting Started
+Two Dice game using Maps.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/ZeAs4c/two_dice/assets/59208681/df2ea9b7-08ca-427a-8f25-c50735bf97f7)
+![image](https://github.com/ZeAs4c/two_dice/assets/59208681/cbb02170-cc27-4048-a05a-e9d0a3fed144)
